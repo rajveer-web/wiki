@@ -1,0 +1,1 @@
+Mathematics, often shortened to "math", is a fundamental field of study focused on the nature, properties, and relationships of numbers, shapes, and space. 

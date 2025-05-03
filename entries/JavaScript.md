@@ -1,0 +1,1 @@
+JavaScript is the world's most popular programming language. It is the programming language of the Web. It is easy to learn.
