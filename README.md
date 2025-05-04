@@ -13,14 +13,14 @@ Click on any entries, how it look likes
 
 ## Features
 - **Create a New Page**: Users can create new pages with titles and content written in Markdown.
-- ![image](https://github.com/user-attachments/assets/276a4f0a-c786-4390-ad09-f286c9e1dcfd)
+  ![image](https://github.com/user-attachments/assets/276a4f0a-c786-4390-ad09-f286c9e1dcfd)
 
 - **Edit Pages**: Users can edit pages that already exist.
 
-- ![image](https://github.com/user-attachments/assets/7ac87b5d-8920-4449-83af-6f8a9a2a5452)
+  ![image](https://github.com/user-attachments/assets/7ac87b5d-8920-4449-83af-6f8a9a2a5452)
 
 - **Search**: Users can search for pages based on keywords.
 
-- ![image](https://github.com/user-attachments/assets/2b8ba919-32a4-4ad1-ac9c-7c870219ada2)
+  ![image](https://github.com/user-attachments/assets/2b8ba919-32a4-4ad1-ac9c-7c870219ada2)
 
 - **Random Page**: Click on the random page button to open a random entry from the encyclopedia.
